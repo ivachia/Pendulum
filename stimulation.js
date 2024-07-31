@@ -1,3 +1,4 @@
+// run this in p5js 
 let length, mass, gravity, theta, velocity, time;
 let angle, angularVelocity, angularAcceleration;
 let isPaused = false;
